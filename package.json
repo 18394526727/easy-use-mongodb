@@ -1,0 +1,19 @@
+{
+  "name": "easy-use-mongodb",
+  "version": "1.0.0",
+  "description": "基于mongodb包的，用于简化mongodb数据库操作的一个库，完善中",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18394526727/easy-use-mongodb.git"
+  },
+  "author": "HonneyHao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18394526727/easy-use-mongodb/issues"
+  },
+  "homepage": "https://github.com/18394526727/easy-use-mongodb#readme"
+}
